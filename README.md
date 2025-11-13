@@ -3,3 +3,5 @@ This is a html page that contains all the commands for Alpine linux on iOS Devic
 
 To install just go to your App Store on your iOS Device and install the iSH App.
 iSH is a lightweight emulator Linux shell environment that runs Alpine Linux and gives you a busybox shell so you can play around with a lot of command-line tools you'd normally find on a minimal Linux Distro. There are some examples of things you can install inside the cheat sheet. 
+
+To open just save the Alp.html file then right click and open in Browser. Only Browser the page doesn't render in is the Zen browser to my knowledge the rest should be fine
